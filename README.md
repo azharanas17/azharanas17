@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="[https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/anas-azhar-008626217/)">
+<a href="https://www.linkedin.com/in/anas-azhar-008626217/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://instagram.com/azharanas_17">
